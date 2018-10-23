@@ -7,3 +7,4 @@ Here i show you this image to help you better understand my project's structure
 ## Environment
 - Python 3.5
 - Pycharm
+- Pytorch 0.4.1
