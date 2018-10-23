@@ -1,4 +1,4 @@
-# DL_pack
+# Deep Learning Pack
 ## Introduction
 This is my Deep Learning Tools for Text. 
 ## Structure
